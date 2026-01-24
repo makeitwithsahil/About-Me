@@ -2,7 +2,7 @@
 
 👋 Hey, I’m **Sahil Maurya** — founder, developer, and brand builder.
 
-I’m a **Full-Stack Developer** and the **Founder of Brancha**, a digital branding & web agency helping local and growing businesses look professional, trustworthy, and premium online.
+I’m a **Full-Stack Developer** and the **Founder of Brancha**, A company that stops customer loss and fix, build and maintain complete online presence of growing businesses.
 
 I enjoy building clean, fast, and thoughtful products using **React, Next.js, Node.js, and MongoDB**, and I care deeply about **UI polish, smooth animations, and real-world usability** — not just code that works, but code that *feels right*.
 
