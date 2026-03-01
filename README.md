@@ -1,17 +1,22 @@
-# 💫 About Me
+# About
 
-👋 Hey, I’m **Sahil Maurya** — founder, developer, and brand builder.
+I’m Sahil Maurya — a full stack developer building production-ready web systems and studying how they fail.
 
-I’m a **Full-Stack Developer** and the **Founder of Brancha**, A company that stops customer loss and fix, build and maintain complete online presence of growing businesses.
+My primary focus is React and Node.js, where I work on architecture, performance, and security-conscious design. I care about structure from the first commit — clean code, predictable state, and systems that scale without turning fragile.
 
-I enjoy building clean, fast, and thoughtful products using **React, Next.js, Node.js, and MongoDB**, and I care deeply about **UI polish, smooth animations, and real-world usability** — not just code that works, but code that *feels right*.
+Alongside web engineering, I’m exploring offensive security and AI model evaluation. I’m particularly interested in prompt injection, trust boundary failures, and how LLM-driven systems break under adversarial input.
 
-Currently:
-- 🎓 Diploma in IT (1st Semester)
-- 🚀 Building Brancha alongside my studies
-- 🧠 Focused on full-stack mastery, system thinking, and long-term growth
+## Currently
 
-I believe in building **simple, effective, and human-centered solutions** — because technology should reduce friction, not add to it.
+- Building real-world applications through Brancha  
+- Studying OWASP patterns and API security  
+- Researching vulnerabilities in AI systems  
+- Expanding into Python and FastAPI for security tooling  
+
+---
+
+I don’t chase trends.  
+I build systems that work — and then I test how they break.
 
 
 ---
