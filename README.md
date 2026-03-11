@@ -68,28 +68,6 @@ I focus on building useful systems, solving practical problems, and improving th
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=makeitwithsahil&theme=vue-dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=makeitwithsahil&theme=vue-dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=makeitwithsahil&theme=vue-dark&hide_border=false&layout=compact)
-
----
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-
-### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=makeitwithsahil&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=makeitwithsahil&icon=0&color=3)](https://visitcount.itsvg.in)
-
----
-
-## 💰 Support My Work
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/makeitwithsahil)
