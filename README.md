@@ -1,39 +1,33 @@
 # About
 
-I’m Sahil Maurya — a full stack developer building production-ready web systems and studying how they fail.
+I’m Sahil Maurya — a full-stack developer focused on building practical software, AI tools, and automation systems.
 
-My primary focus is React and Node.js, where I work on architecture, performance, and security-conscious design. I care about structure from the first commit — clean code, predictable state, and systems that scale without turning fragile.
+My primary focus is creating modern web applications using **React, Node.js, and scalable backend systems**. I care about writing clean, maintainable code and designing systems that solve real problems for people and businesses.
 
-Alongside web engineering, I’m exploring offensive security and AI model evaluation. I’m particularly interested in prompt injection, trust boundary failures, and how LLM-driven systems break under adversarial input.
+Beyond web development, I’m exploring how **AI and automation can simplify workflows, improve productivity, and help people build and run businesses more efficiently.**
+
+I enjoy learning by building — turning ideas into working products and continuously improving through real-world projects.
 
 ## Currently
 
-- Building real-world applications through Brancha  
-- Studying OWASP patterns and API security  
-- Researching vulnerabilities in AI systems  
-- Expanding into Python and FastAPI for security tooling  
+- Building full-stack web applications and real-world projects  
+- Exploring **AI integrations and automation tools**  
+- Improving system design, backend architecture, and API development  
+- Learning how software can improve how people **work, learn, and build businesses**
 
 ---
 
-I don’t chase trends.  
-I build systems that work — and then I test how they break.
-
+I focus on building useful systems, solving practical problems, and improving through consistent experimentation and iteration.
 
 ---
 
 ## 🌐 Socials
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/makeitwithsahil)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/makeitwithsahil)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-maurya-525579260)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sahilmaurya_19774)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/makeitwithsahil/_pins)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Sahil-7040)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/sahiImaurya)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30112941/sahil-maurya)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/makeitwithsahil)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@makeitwithsahil)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Sahil-Maurya-the-solid)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:workwiths4hil@gmail.com)
 
 ---
